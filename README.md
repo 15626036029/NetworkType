@@ -1,6 +1,7 @@
 # NetworkType
 网络类型识别、同时处理了连续出现多个UIAlertView的问题
- case kMSCNetworkTypeNone:
+
+        case kMSCNetworkTypeNone:
             NSLog(@"NotReachable");
             string = @"无网络连接";
             break;
